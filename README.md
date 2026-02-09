@@ -37,8 +37,6 @@ I build software across the full stack—from Linux kernel modules to LLM-powere
 
 - **[Linux Kernel Cipher Module](https://github.com/NMHelmy/linux-kernel-cipher-module)** - Encrypted character devices with /dev and /proc interfaces. `C` `Linux Kernel`
 
-- **[Custom Unix Shell](https://github.com/NMHelmy/custom-unix-shell)** - Shell with I/O redirection and pipelines. `C` `Unix System Calls`
-
 - **[MANET Routing Simulator](https://github.com/NMHelmy/manet-routing-simulator-ns2-python-gui)** - Network simulator comparing OLSR and AODV protocols. `Python` `NS2` `Tkinter`
 
 <br>
