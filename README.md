@@ -23,7 +23,7 @@ I build software across the full stack—from Linux kernel modules to LLM-powere
 
 - **[Food Delivery Microservices](https://github.com/NMHelmy/food-delivery-microservices-app)** - Distributed platform with 8+ microservices, API Gateway, and event-driven architecture. `Java` `Spring Boot` `RabbitMQ` `MySQL` `Flutter`
 
-- **[Appointment Scheduling API](https://github.com/NMHelmy/appointment-scheduling-system-dotnet)** - RESTful API with JWT authentication and role-based authorization. `C#` `.NET` `Entity Framework` `SQL`
+- **[Appointment Scheduling API](https://github.com/NMHelmy/appointment-scheduling-system-dotnet)** - RESTful API with JWT and role-based authorization. `C#` `.NET` `Entity Framework` `SQL`
 
 ### AI & Machine Learning
 
