@@ -41,6 +41,7 @@ I build software across the full stack—from Linux kernel modules to LLM-powere
 
 - **[MANET Routing Simulator](https://github.com/NMHelmy/manet-routing-simulator-ns2-python-gui)** - Network simulator comparing OLSR and AODV protocols. `Python` `NS2` `Tkinter`
 
-### Connect
+<br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nour-helmy-ba5185235/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nour.mohamedhelmy@gmail.com)
