@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I build software across the full stack—from Linux kernel modules to LLM-powered applications.
 
-## 🚀 Projects
+## 🚀 Main Projects
 
 ### Distributed Systems & Backend
 
@@ -32,10 +32,6 @@ I build software across the full stack—from Linux kernel modules to LLM-powere
 - **[RAG Retrieval System](https://github.com/NMHelmy/rag-retrieval-augmented-generation)** - Retrieval-augmented generation with hierarchical search. `Python` `LangChain` `FAISS`
 
 - **[Emotion Detector](https://github.com/NMHelmy/emotion-detection-cnn-webapp)** - Facial emotion recognition with CNN classifier. `Python` `TensorFlow` `FastAPI` `React`
-
-- **[Conversational AI Agents](https://github.com/NMHelmy/conversational-ai-reasoning-agents)** - Multi-strategy agents with tool integration. `Python` `OpenAI API`
-
-- **[LLM Workflow Orchestration](https://github.com/NMHelmy/multi-agent-llm-piplines)** - Comparing Pipeline, Reflexion, and Agent-Driven approaches. `Python` `OpenAI API` `LangChain`
 
 ### Systems Programming
 
