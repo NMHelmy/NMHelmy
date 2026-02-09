@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Nour Helmy
+## Hi, I'm Nour Helmy
 
 I build software across the full stack—from Linux kernel modules to LLM-powered applications.
 
-## 🚀 Main Projects
+## 🚀 Featured Projects
 
 ### Distributed Systems & Backend
 
@@ -27,23 +27,20 @@ I build software across the full stack—from Linux kernel modules to LLM-powere
 
 ### AI & Machine Learning
 
-- **[SynthesisTalk](https://github.com/NMHelmy/synthesistalk-ai-research-assistant)** - Document Q&A with CoT/ReAct reasoning and web search. `Python` `FastAPI` `React` `OpenAI API`
+- **[AI Research Assistant](https://github.com/NMHelmy/synthesistalk-ai-research-assistant)** - Document Q&A with CoT/ReAct reasoning and web search. `Python` `FastAPI` `React` `OpenAI API`
 
 - **[RAG Retrieval System](https://github.com/NMHelmy/rag-retrieval-augmented-generation)** - Retrieval-augmented generation with hierarchical search. `Python` `LangChain` `FAISS`
 
 - **[Emotion Detector](https://github.com/NMHelmy/emotion-detection-cnn-webapp)** - Facial emotion recognition with CNN classifier. `Python` `TensorFlow` `FastAPI` `React`
 
-### Systems Programming
+### Systems Programming & Network Engineering
 
 - **[Linux Kernel Cipher Module](https://github.com/NMHelmy/linux-kernel-cipher-module)** - Encrypted character devices with /dev and /proc interfaces. `C` `Linux Kernel`
 
 - **[Custom Unix Shell](https://github.com/NMHelmy/custom-unix-shell)** - Shell with I/O redirection and pipelines. `C` `Unix System Calls`
 
-### Network Engineering
-
 - **[MANET Routing Simulator](https://github.com/NMHelmy/manet-routing-simulator-ns2-python-gui)** - Network simulator comparing OLSR and AODV protocols. `Python` `NS2` `Tkinter`
 
 ## 📫 Connect
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nour-helmy-ba5185235/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nour.mohamedhelmy@gmail.com)
